@@ -1,4 +1,8 @@
 _repo: Crater-Lake-National-Park-Oregon_48993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48993-h/images/bcover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48993#Crater-Lake-National-Park-Oregon
 gutenberg_issued: '2015-05-19'
 gutenberg_type: Text
 identifiers:
